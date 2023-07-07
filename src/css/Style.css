@@ -1,0 +1,150 @@
+
+.search-div{
+    width: 55%;
+    border: 1px solid rgba(159, 155, 155,0.4);
+    padding: 3px;
+}
+
+.text-box input{
+    width: 700px;
+    border: none ;
+    outline: none;
+    font-size: 14px;
+    background-color: transparent;
+    color:black !important;
+}
+
+.orange{
+    color:orange !important;
+  }
+
+.orange-hover:hover{
+    color:orange !important;
+  }
+
+.search{
+    background-color: orange;
+    color: white;
+  }
+
+.line{
+    display: flex;
+    flex-direction: column;
+}
+.font-icon{
+    font-size: 15px;
+    justify-content: end;
+    color: rgba(16, 15, 15, 0.6);
+}
+
+
+.icon{
+    font-size: 20px;
+}
+ 
+.link{
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.link:hover{ 
+    color: rgba(16, 15, 15, 0.9) !important;  
+}
+
+.btn button{
+    border: none;
+  outline: none;
+    padding: 7px 22px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+   
+}
+
+.btn button:hover{
+    color: black;
+    background-color: orange;
+}
+
+
+.black{
+    background-color: rgb(4, 4, 4);
+}
+
+.spacer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.p-1{
+    font-size: 25px;
+    color: rgb(22, 21, 21);
+}
+
+.p-2{
+    font-size: 20px;
+    color: gray;
+}
+
+.p-3{
+    color: red !important;
+}
+
+.hr{
+    color: rgba(227, 222, 222,0.5);
+}
+/* --------------------------------------------  Category   ------------------------------------------------*/
+.thumbnail img{
+    height: 200px;
+    width: 250px;
+  }
+  
+
+/* -------------------------------------------  Single Product  ----------------------------------------------- */
+.single-img{
+    width: 100%;
+    height: 100%;
+  }
+
+/* -------------------------------------------  Blog  ----------------------------------------------- */
+.blog img{
+    width: 100%;
+}
+
+.short-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.outline{
+    /* outline: none ; */
+    border: none;
+}
+
+/* -------------------------------------------  Comment Post  ----------------------------------------------- */
+
+.img-post{
+    width: 250px;
+    top: 60%;
+    left: 0;
+}
+
+.pad{
+    width: 90%;
+    padding-left: 330px;
+    overflow-x: none;
+}
+
+/* -------------------------------------------  Single Comment  ----------------------------------------------- */
+
+.width{
+    width: 89%;
+    color: rgb(230, 183, 122);
+    box-shadow: 2px 1px;
+}
+
+.shadow{
+    color: black;
+    box-shadow: 5px 5px;
+}
